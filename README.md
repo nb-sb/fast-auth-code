@@ -24,7 +24,6 @@ ownership_system
 id
 //系统名称 name
 //用于系统验证的后端ip ip
-//
 ```
 
 Redis 存贮验证码生成的验证信息,如是否验证等
